@@ -1,6 +1,7 @@
 from djitellopy import tello
 import cv2
 
+##Reading the tello camera using openCV
 me = tello.Tello()
 me.connect()
 print(me.get_battery())
