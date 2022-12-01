@@ -1,6 +1,7 @@
 #João Pedro Mafaldo de Paula
 #Engenharia da Computação P1 - CIn -UFPE 01/07/2022
 #Nenhuma das bibliotecas utilizadas pertence ou foi desenvolvida pelo Autor do código
+# CONTROLAR O DRONE DJI TELLO PELO TECLADO DO NOTEBOOK UTILIZANDO O TELLO SDK E A BIBLIOTECA DJITELLOPY
 
 
 import cv2 #display da imagem e resize do frame recebidos do drone
