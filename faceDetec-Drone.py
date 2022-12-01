@@ -1,6 +1,7 @@
 #João Pedro Mafaldo de Paula
 #Engenharia da Computação P1 - CIn -UFPE 01/07/2022
 #Nenhuma das bibliotecas utilizadas pertence ou foi desenvolvida pelo Autor do código
+#UTILIZEI O MEDIAPIPE PARA FAZER O DRONE DJITELLOPY SEGUIR O MAIOR ROSTO DE UMA PESSOA DETECTADA PELA CAMERA DO DRONE
 
 import cv2
 import mediapipe as mp
