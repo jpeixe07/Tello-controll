@@ -4,6 +4,7 @@
 
 
 #OBJETIVO DO PROGRAMA:
+#CONTROLAR O DRONE PELA COMUNICAÇÃO SERIAL DO PC-ARDUINO COM POTENCIOMETROS E BOTOES
 #Receber os valores de dois potenciômetros, 3 botões e um joystick analógico(potenciometro 1 pra o eixo x e pot 2 para o eixo y)
 #E transformar esses valores em parâmetros que possam ser utilizados pelas funções: tello.send_rc_control() -- Controle do drone, drone.takeoff(), drone.land()
 #E também o recebimento da imagem paralelo ao controle do drone, o que é o verdadeiro desafio aqui
